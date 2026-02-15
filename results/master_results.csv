@@ -2,3 +2,9 @@ indicator_name,ticker,return_pct,buy_hold_return_pct,max_drawdown_pct,num_trades
 RSI Oversold Bounce,SPY,17.03,35.7,-13.66,2,100.0,nan,0.64,2024-02-16 00:00:00,2026-02-13 00:00:00,_example_rsi_bounce.py,2026-02-15 01:16:22
 RSI Oversold Bounce,QQQ,19.0,36.62,-15.65,2,100.0,nan,0.63,2024-02-16 00:00:00,2026-02-13 00:00:00,_example_rsi_bounce.py,2026-02-15 01:17:05
 RSI Oversold Bounce,SPY,17.03,35.7,-13.66,2,100.0,0,0.64,2024-02-16 00:00:00,2026-02-13 00:00:00,_example_rsi_bounce.py,2026-02-15 01:17:30
+RSI Oversold Bounce,SPY,17.03,35.7,-13.66,2,100.0,0,0.64,2024-02-16 00:00:00,2026-02-13 00:00:00,_example_rsi_bounce.py,2026-02-15 12:54:07
+ORB + Key Session Levels Strategy,SPY,0.0,39.86,-0.0,0,nan,0,0,2024-02-16,2026-02-13,orb_key_session.py,2026-02-15 12:57:11
+ORB + Key Session Levels Strategy,SPY,0.0,36.6,-0.0,0,nan,0,0,2024-02-16,2026-02-13,orb_key_session.py,2026-02-15 12:57:30
+RSI Oversold Bounce,SPY,17.03,35.7,-13.66,2,100.0,0,0.64,2024-02-16 00:00:00,2026-02-13 00:00:00,_example_rsi_bounce.py,2026-02-15 12:59:13
+ORB + Key Session Levels Strategy,SPY,-14.03,36.6,-17.27,40,30.0,0.7,-0.53,2024-02-16 00:00:00,2026-02-13 00:00:00,orb_key_session.py,2026-02-15 12:59:53
+ORB + Key Session Levels Strategy,QQQ,-5.54,40.25,-23.44,46,30.43,0.97,-0.15,2024-02-16 00:00:00,2026-02-13 00:00:00,orb_key_session.py,2026-02-15 13:00:00
