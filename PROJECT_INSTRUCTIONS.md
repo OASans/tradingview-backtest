@@ -219,6 +219,10 @@ git push origin main
 
 ---
 
+## IMPORTANT: Skip Rule
+
+**If a conversion fails after 2 attempts, SKIP IT and move to the next indicator.** Do not spend your entire context debugging one strategy. Log the failure to `logs/errors.log` and `logs/scrape_log.csv` with status `skipped`, then move on. There are hundreds of indicators — don't get stuck on one.
+
 ## Error Recovery
 
 | Error | Fix |
